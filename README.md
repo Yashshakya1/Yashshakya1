@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="<div class="tenor-gif-embed" data-postid="13805727" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/crayon-shinchan-cheer-happy-friends-shinnosuke-nohara-gif-13805727">Crayon Shinchan Cheer Sticker</a>from <a href="https://tenor.com/search/crayon+shinchan-stickers">Crayon Shinchan Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
 
 ###
 
