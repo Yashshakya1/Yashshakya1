@@ -8,8 +8,8 @@
 </div>
 
 ###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 
-<div class="tenor-gif-embed" data-postid="13805727" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/crayon-shinchan-cheer-happy-friends-shinnosuke-nohara-gif-13805727">Crayon Shinchan Cheer Sticker</a>from <a href="https://tenor.com/search/crayon+shinchan-stickers">Crayon Shinchan Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <div align="left">
