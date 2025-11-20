@@ -8,7 +8,7 @@
 </div>
 
 ###
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+<img src="https://tenor.com/55Fb.gif" height="150" />
 
 ###
 
